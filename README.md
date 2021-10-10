@@ -1,14 +1,14 @@
 
-<img src=images/header.svg alt="Hi there! How are you doing?"/>
+<img src=images/header.svg />
 
-[![](https://img.shields.io/badge/saritasingh-%23181717?style=flat-square&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/s-sarita)
-[![](https://img.shields.io/badge/-@_singhsarita-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/_singhsarita?s=09)
-[![](https://img.shields.io/badge/-@itssingh-%23181717?style=flat-square&logo=github)](https://github.com/itssingh)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saahil-ali-290399/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programmer290399@gmail.com)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/programmer290399#9697)
 
 <p align="center">
 <img src=images/stat.svg alt="image"/>
 </p>
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=itssingh&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=programmer290399&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=programmer290399&theme=gotham"/></td></tr></table>
 
 <hr>
