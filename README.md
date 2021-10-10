@@ -13,4 +13,4 @@
 
 <hr>
 
-###### Big thanks to @itssingh for providing this template. 
+###### Big thanks to [@itssingh](https://github.com/itssingh) for providing this template. 
