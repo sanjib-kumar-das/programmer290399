@@ -12,3 +12,5 @@
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=programmer290399&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=programmer290399&theme=gotham"/></td></tr></table>
 
 <hr>
+
+###### Big thanks to @itssingh for providing this template. 
