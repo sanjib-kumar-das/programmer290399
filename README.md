@@ -10,7 +10,7 @@
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=programmer290399&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=programmer290399&theme=gotham"/></td></tr></table>
 
-[![Saahil's github activity graph](https://gh-readme-activity-graph.herokuapp.com/graph?username=programmer290399&theme=gotham&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![|Saahil's github activity graph| Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=programmer290399&theme=gotham&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 
 ###### Big thanks to [@itssingh](https://github.com/itssingh) for providing this template. 
